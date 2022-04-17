@@ -1,0 +1,53 @@
+﻿  MineSweeper.cpp
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(21,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(23,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(29,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(31,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(55,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(57,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(63,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(65,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(148,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(152,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(156,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(166,19): error C2601: 'MineSweeper::initMap': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(232,19): error C2601: 'MineSweeper::loadGame': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(310,19): error C2601: 'MineSweeper::restoreGame': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(357,19): error C2601: 'MineSweeper::start': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(433,19): error C2601: 'MineSweeper::drawMap': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(467,19): error C2601: 'MineSweeper::gameOverIf': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(492,19): error C2601: 'MineSweeper::endGame': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(513,19): error C2601: 'MineSweeper::recurExtension': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(525,19): error C2601: 'MineSweeper::playGame': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(667,19): error C2601: 'MineSweeper::replayGame': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(689,19): error C2601: 'MineSweeper::recurUpLeft': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(708,19): error C2601: 'MineSweeper::recurUp': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(727,19): error C2601: 'MineSweeper::recurUpRight': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(746,43): error C2601: 'MineSweeper::recurLeft': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(764,19): error C2601: 'MineSweeper::recurRight': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(783,19): error C2601: 'MineSweeper::recurDownLeft': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(802,43): error C2601: 'MineSweeper::recurDown': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(820,48): error C2601: 'MineSweeper::recurDownRight': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(838,6): error C2601: 'setCursorView': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(844,27): error C2601: 'gotoxy': 지역 함수 정의가 잘못되었습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\tkddl\source\repos\MineProject\MineProject\MineSweeper.cpp(90): fatal error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
